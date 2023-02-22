@@ -18,7 +18,7 @@
 
     <properties>
         <smarthttp.version>1.0.14-SNAPSHOT</smarthttp.version>
-        <commons.fileupload.version>1.4</commons.fileupload.version>
+        <commons.fileupload.version>1.5</commons.fileupload.version>
     </properties>
 
     <dependencies>
